@@ -1,0 +1,6 @@
+{
+  "name": "Tap Master Kids",
+  "description": "A responsive, vibrant, and educational hyper-casual matching and reaction game designed for kids aged 4-8, with playful animations, shapes, and reward stickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
